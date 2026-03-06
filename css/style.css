@@ -1,0 +1,31 @@
+body{
+    font-family: Arial;
+    margin:0;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+    padding:20px;
+    background:#0b3d91;
+    color:white;
+}
+
+nav a{
+    color:white;
+    margin-left:15px;
+    text-decoration:none;
+}
+
+.hero{
+    text-align:center;
+    padding:80px;
+    background:#f4f4f4;
+}
+
+.hero button{
+    padding:10px 20px;
+    background:#0b3d91;
+    color:white;
+    border:none;
+}
